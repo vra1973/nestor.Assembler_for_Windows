@@ -15,6 +15,7 @@ Text db '«дравствуйте, € Ч особо опасный вирус-тро€н и распростран€юсь по интерн
 '2.ќтправьте этот файл всем своим знакомым',13,\
 '«аранее благодарен.',0
 
+
 section '.code' code readable executable
 start:
 invoke MessageBox,0,Text,Caption,MB_OK
