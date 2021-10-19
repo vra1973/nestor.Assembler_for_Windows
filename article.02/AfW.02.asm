@@ -51,10 +51,10 @@ _caption_exit db 'Вы хотите выйти из программы ?',0
 _cd_open db 'set cdaudio door open',0
 _cd_close db 'set cdaudio door closed',0
 
-_wav_play db 'play c:\windows\media\tada.wav',0
-_Ring03 db 'play c:\windows\media\Ring03.wav',0
-_Ring05 db 'play c:\windows\media\Ring05.wav',0
-_exclamation db 'play c:\windows\media\Windows - восклицание.wav',0
+_wav_play db 'play tada.wav',0
+_Ring03 db 'play Ring03.wav',0
+_Ring05 db 'play Ring05.wav',0
+_exclamation db 'play Windows_Exclamation.wav',0
 
 ; импортируемые данные разместятся в этой же секции:
 
