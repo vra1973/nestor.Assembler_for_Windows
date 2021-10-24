@@ -1,0 +1,5 @@
+First text.
+Creted on ASM_Text_Editor.
+
+Первый текст, созданный в редакторе на ассемблере.
+Компилятор FASM.
